@@ -1,0 +1,14 @@
+https://www.geeksforgeeks.org/how-to-create-a-multi-page-website-using-react-js/
+
+npx create-react-app react-website
+
+npm install react-router-dom 
+npm install --save styled-components
+
+error in the last command, used below command instead (https://stackoverflow.com/questions/70810819/npm-err-cannot-read-properties-of-null-reading-edgesout)
+
+npm install styled-components@latest
+
+npm install react-icons
+
+
